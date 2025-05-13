@@ -55,5 +55,8 @@ transition: background 0.3s ease;
 }
 
 ## Template
+### Parte 1
 <img src="template-parte1.png" alt="">
+
+### Parte 2
 <img src="template-parte2.png" alt="">
