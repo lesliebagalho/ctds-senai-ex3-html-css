@@ -59,7 +59,6 @@ transition: background 0.3s ease;
 
 <img src="template-parte1.png" alt="">
 
-<br>
 <img src="template-parte2.png" alt="">
 
 <img src="template-parte3.png" alt="">
