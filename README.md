@@ -58,8 +58,8 @@ transition: background 0.3s ease;
 <p align="center">
 
 <img src="template-parte1.png" alt="">
-
+<br>
 <img src="template-parte2.png" alt="">
-
+<br>
 <img src="template-parte3.png" alt="">
 </p>
